@@ -9,7 +9,7 @@ Created on 2019年6月12日
 from docx import Document
 
 document = Document()
-document.add_heading('T彭婷是个大傻子ing of the universe')
+document.add_heading('大傻子ing of the universe')
 document.add_heading('The role of dolphins', level=2)
 paragraph = document.add_paragraph('Lorem ipsum dolor sit amet.')
 
